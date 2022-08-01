@@ -62,8 +62,8 @@
     "url": "https://github.com/dropzone/dropzone.git"
   },
   "dependencies": {
-    "@swc/helpers": "^0.2.13",
-    "just-extend": "^5.0.0"
+    "@swc/helpers": "^0.4.3",
+    "just-extend": "^6.0.1"
   },
   "devDependencies": {
     "@parcel/transformer-inline-string": "^2.0.0",
